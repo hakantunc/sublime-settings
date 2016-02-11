@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Clickable URLs",
+		"Colorsublime",
+		"Desert Night Color Scheme",
+		"doTjs Template Syntax Highlighting",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"JSON Reindent",
+		"JSONLint",
+		"Markdown Extended",
+		"Markdown Preview",
+		"ModernPerl",
+		"Package Control",
+		"PerlTidy",
+		"Schemr",
+		"Seti_UI",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Themr"
+	]
+}
