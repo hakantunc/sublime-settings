@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xslt",
+		"xml.dist",
+		"tmTheme",
+		"tmPreferences",
+		"sublime-snippet",
+		"xsd",
+		"dsd"
+	]
+}

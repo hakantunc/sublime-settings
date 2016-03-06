@@ -24,6 +24,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"Themr"
+		"Themr",
+		"xpath"
 	]
 }
